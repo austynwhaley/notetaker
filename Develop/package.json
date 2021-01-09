@@ -2,22 +2,22 @@
   "name": "notetaker",
   "version": "1.0.0",
   "description": "",
-  "main": "server.js",
+  "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
-  "author": "",
-  "license": "ISC",
-  "dependencies": {
-    "express": "^4.16.4"
-  },
-  "devDependencies": {},
   "repository": {
     "type": "git",
     "url": "git+https://github.com/austynwhaley/notetaker.git"
   },
+  "author": "",
+  "license": "ISC",
   "bugs": {
     "url": "https://github.com/austynwhaley/notetaker/issues"
   },
-  "homepage": "https://github.com/austynwhaley/notetaker#readme"
+  "homepage": "https://github.com/austynwhaley/notetaker#readme",
+  "dependencies": {
+    "express": "^4.17.1",
+    "inquirer": "^7.3.3"
+  }
 }
