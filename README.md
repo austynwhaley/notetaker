@@ -11,7 +11,7 @@ Copyright (c) [2020] [Austyn Whaley]
 
 ### Table of Contents
 
-## Link to application     https://aqueous-basin-86788.herokuapp.com/notes
+## Link to application     https://aqueous-basin-86788.herokuapp.com/
 
 - [Description](#description)
 - [Installation](#installation)
