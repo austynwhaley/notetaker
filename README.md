@@ -26,7 +26,7 @@ Copyright (c) [2020] [Austyn Whaley]
 
 ## Description
 
-### This is an application that saves and stores typed notes to a data base and which displayed on the interface. You are also able to delete these created notes from this interface.
+### This is an application that saves and stores typed notes into a database which is then displayed on the interface. You are also able to delete these created notes from this interface.
 
 ---
 
