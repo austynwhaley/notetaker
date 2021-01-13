@@ -26,13 +26,11 @@ Copyright (c) [2020] [Austyn Whaley]
 
 ## Description
 
-### This is an application that saves and stores typed notes to a data base and which is displayed. You are also able to delete these created notes from the interface.
+### This is an application that saves and stores typed notes to a data base and which displayed on the interface. You are also able to delete these created notes from this interface.
 
 ---
 
 ## Installation
-
-### To install this program you will need to run
 
 #### no installation required
 
@@ -50,7 +48,7 @@ Copyright (c) [2020] [Austyn Whaley]
 
 ### How to test application:
 
-#### Type a title and some text into the input fields and click the save button and once it is saved you can delete them by clicking on the delete icon
+#### Type a title and some text into the input fields then click the save button, once itss saved you can delete them by clicking on the delete icon located in the sidebar
 
 ---
 
